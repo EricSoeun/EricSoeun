@@ -5,7 +5,6 @@
 
 - 🤝 I’m looking for **an intership** for December 2022.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
