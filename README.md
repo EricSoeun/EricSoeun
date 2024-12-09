@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A passionate freelance frontend developer from Paris</h3>
 
-- 🤝 12/2024 -> 06/2024 React and React Native Developer for [Lola Health](https://www.lolahealth.fr/).
+- 🤝 12/2022 -> 06/2024 React and React Native Developer for [Lola Health](https://www.lolahealth.fr/).
 - 🗣️ 12/2024 I’m currently working on Phaasa, a platform for learning languages from mainland Southeast Asia, such as Thai, Lao, Cambodian and Burmese. A gamified learning application with audio/video resources inspired by Duolingo.
 
 # 💻 Tech Stack:
